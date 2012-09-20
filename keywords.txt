@@ -1,0 +1,7 @@
+Nokia	KEYWORD1
+writechar	KEYWORD2
+clear	KEYWORD2
+print	KEYWORD2
+write	KEYWORD2
+gotoXY	KEYWORD2
+drawLine	KEYWORD2
